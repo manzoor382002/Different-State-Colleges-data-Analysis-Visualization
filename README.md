@@ -9,6 +9,9 @@
 - Analyzed **admission trends** by mapping entrance exam requirements (e.g., **TS EAMCET**) to relevant colleges.
 - Applied **basic statistical analysis** to extract insights that aid in educational planning and informed decision-making.
 
+- ![Dashboard Screenshot](Screenshot%202025-06-29%20203626.png)
+
+
 **Key Highlights:**
 - Visual dashboard enabling comparison across states and institutions
 - Real-world data scraped and analyzed end-to-end
